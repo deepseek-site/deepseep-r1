@@ -1,6 +1,6 @@
 # DeepSeek服务器繁忙 的终极解决方案：DeepSeek网页版、DeepSeek R1 满血版、本地部署攻略~【2025年2月更新】
 
-> **更新：2025/02/24**      
+> **更新：2025/02/25**      
 
 最近好多人使用，都是 **DeepSeek服务器繁忙，请稍后再试** 的提示，严重影响使用！
 
@@ -8,7 +8,7 @@
 
 轻松使用 **DeepSeek R1 满血版**，**快速稳定、不卡顿**，支持 **DeepSeek R1 满血版** 以及 **ChatGPT o1、o3** 大模型。   
 
-包含 **[DeepSeek 官网平替](https://chat.lify.vip)**、**[DeepSeek网页版](https://chat.lify.vip)**、**API使用** 和 **DeepSeek本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
+包含 **[DeepSeek 官网平替](https://chat.yixiaai.com)**、**[DeepSeek网页版](https://chat.yixiaai.com)**、**API使用** 和 **DeepSeek本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
@@ -22,14 +22,14 @@
 
 ## DeepSeek 官网
 
-* **DeepSeek 网页版：** [官网繁忙](https://www.deepseek.com/)、[🔥一下AI (平替)](https://chat.lify.vip)【🔥快速稳定】
+* **DeepSeek 网页版：** [官网繁忙](https://www.deepseek.com/)、[🔥一下AI (平替)](https://chat.yixiaai.com)【🔥快速稳定】
 * **DeepSeek 客户端：** [访问](https://download.deepseek.com/app/)
 * **DeepSeek API：** [访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：** [访问](https://status.deepseek.com/)
 
 ## DeepSeek 网页版（好用的官方平替）
 
-* **🔥AI智慧岛：** [chat.deepseek-free.org](https://chat.lify.vip/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、V3模型
+* **🔥AI智慧岛：** [chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、V3模型
 * **🔥一下 AI：** [www.yixiaai.com](https://www.yixiaai.com/) - **AI大模型**，支持 DeepSeek、ChatGPT 和 Claude 的最强模型
 * **秘塔 AI：** [访问](https://metaso.cn/)
 * **纳米 AI：** [访问](https://www.n.cn/)
